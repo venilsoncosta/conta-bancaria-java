@@ -4,7 +4,5 @@ public class Main {
         System.out.println(conta1.getNumeroConta());
         conta1.depositar(342);
         conta1.sacar(18);
-
-
     }
 }
